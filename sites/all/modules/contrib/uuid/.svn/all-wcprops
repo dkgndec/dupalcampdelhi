@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/uuid
+END
+uuid.info
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/uuid/uuid.info
+END
+uuid.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/uuid/uuid.test
+END
+uuid.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/uuid/uuid.admin.inc
+END
+uuid.module
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/uuid/uuid.module
+END
+uuid.install
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/uuid/uuid.install
+END

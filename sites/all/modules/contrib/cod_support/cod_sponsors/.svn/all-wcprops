@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_sponsors
+END
+cod_sponsors.module
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_sponsors/cod_sponsors.module
+END
+cod_sponsors.features.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_sponsors/cod_sponsors.features.inc
+END
+cod_sponsors.features.menu_links.inc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_sponsors/cod_sponsors.features.menu_links.inc
+END
+cod_sponsors.views_default.inc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_sponsors/cod_sponsors.views_default.inc
+END
+cod_sponsors.features.user_permission.inc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_sponsors/cod_sponsors.features.user_permission.inc
+END
+cod_sponsors.info
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_sponsors/cod_sponsors.info
+END
+cod_sponsors.features.content.inc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_sponsors/cod_sponsors.features.content.inc
+END
+cod_sponsors.features.user_role.inc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_sponsors/cod_sponsors.features.user_role.inc
+END
+cod_sponsors.strongarm.inc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_sponsors/cod_sponsors.strongarm.inc
+END

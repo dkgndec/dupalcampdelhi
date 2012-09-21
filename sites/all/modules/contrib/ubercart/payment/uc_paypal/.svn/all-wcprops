@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_paypal
+END
+uc_paypal.module
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_paypal/uc_paypal.module
+END
+uc_paypal.install
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_paypal/uc_paypal.install
+END
+uc_paypal.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_paypal/uc_paypal.pages.inc
+END
+uc_paypal.info
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_paypal/uc_paypal.info
+END

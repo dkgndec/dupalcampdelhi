@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date
+END
+date_handler_field_multiple.inc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date/date_handler_field_multiple.inc
+END
+date.module
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date/date.module
+END
+date.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date/date.views.inc
+END
+date.views_convert.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date/date.views_convert.inc
+END
+date_elements.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date/date_elements.inc
+END
+date.install
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date/date.install
+END
+date_repeat.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date/date_repeat.inc
+END
+date_token.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date/date_token.inc
+END
+date.info
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date/date.info
+END
+date_content_generate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date/date_content_generate.inc
+END
+date_admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date/date_admin.inc
+END
+date.theme
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date/date.theme
+END

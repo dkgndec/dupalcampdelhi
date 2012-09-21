@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes
+END
+filters.utils.inc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/filters.utils.inc
+END
+filters.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/filters.inc
+END
+filters.compression.inc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/filters.compression.inc
+END
+filters.backup_restore.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/filters.backup_restore.inc
+END
+schedules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/schedules.inc
+END
+destinations.file.inc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/destinations.file.inc
+END
+filters.statusnotify.inc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/filters.statusnotify.inc
+END
+profiles.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/profiles.inc
+END
+destinations.browser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/destinations.browser.inc
+END
+destinations.s3.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/destinations.s3.inc
+END
+destinations.db.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/destinations.db.inc
+END
+destinations.email.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/destinations.email.inc
+END
+destinations.ftp.inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/destinations.ftp.inc
+END
+destinations.db.mysql.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/destinations.db.mysql.inc
+END
+crud.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/crud.inc
+END
+filters.encryption.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/filters.encryption.inc
+END
+backup_migrate.drush.inc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/backup_migrate.drush.inc
+END
+files.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/files.inc
+END
+S3.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/S3.php
+END
+destinations.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/15658/SRIJANCON/trunk/sites/all/modules/contrib/backup_migrate/includes/destinations.inc
+END

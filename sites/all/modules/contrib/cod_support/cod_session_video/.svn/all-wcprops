@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session_video
+END
+cod_session_video.module
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session_video/cod_session_video.module
+END
+cod_session_video.features.user_permission.inc
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session_video/cod_session_video.features.user_permission.inc
+END
+cod_session_video.info
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session_video/cod_session_video.info
+END
+cod_session_video.features.content.inc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session_video/cod_session_video.features.content.inc
+END

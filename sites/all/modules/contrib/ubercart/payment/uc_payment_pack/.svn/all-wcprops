@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_payment_pack
+END
+uc_payment_pack.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_payment_pack/uc_payment_pack.admin.inc
+END
+uc_payment_pack.module
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_payment_pack/uc_payment_pack.module
+END
+uc_payment_pack.install
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_payment_pack/uc_payment_pack.install
+END
+uc_payment_pack.info
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_payment_pack/uc_payment_pack.info
+END

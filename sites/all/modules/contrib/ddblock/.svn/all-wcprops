@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/25243/SRIJANCON/trunk/sites/all/modules/contrib/ddblock
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/25243/SRIJANCON/trunk/sites/all/modules/contrib/ddblock/LICENSE.txt
+END
+ddblock.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/25243/SRIJANCON/trunk/sites/all/modules/contrib/ddblock/ddblock.admin.inc
+END
+ddblock-cycle-block-content.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/25243/SRIJANCON/trunk/sites/all/modules/contrib/ddblock/ddblock-cycle-block-content.tpl.php
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/25243/SRIJANCON/trunk/sites/all/modules/contrib/ddblock/INSTALL.txt
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/25243/SRIJANCON/trunk/sites/all/modules/contrib/ddblock/CHANGELOG.txt
+END
+ddblock.module
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/25243/SRIJANCON/trunk/sites/all/modules/contrib/ddblock/ddblock.module
+END
+ddblock-cycle-pager-content.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/25243/SRIJANCON/trunk/sites/all/modules/contrib/ddblock/ddblock-cycle-pager-content.tpl.php
+END
+ddblock.install
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/25243/SRIJANCON/trunk/sites/all/modules/contrib/ddblock/ddblock.install
+END
+ddblock.css
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/25243/SRIJANCON/trunk/sites/all/modules/contrib/ddblock/ddblock.css
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/25243/SRIJANCON/trunk/sites/all/modules/contrib/ddblock/README.txt
+END
+ddblock.info
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/25243/SRIJANCON/trunk/sites/all/modules/contrib/ddblock/ddblock.info
+END

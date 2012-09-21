@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imageapi
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imageapi/LICENSE.txt
+END
+imageapi.module
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imageapi/imageapi.module
+END
+imageapi_gd.info
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imageapi/imageapi_gd.info
+END
+imagefilter.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imageapi/imagefilter.inc
+END
+imageapi.install
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imageapi/imageapi.install
+END
+imageapi_imagemagick.info
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imageapi/imageapi_imagemagick.info
+END
+imageapi.info
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imageapi/imageapi.info
+END
+imagerotate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imageapi/imagerotate.inc
+END
+imageapi_gd.module
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imageapi/imageapi_gd.module
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imageapi/README.txt
+END
+imageapi_gd.install
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imageapi/imageapi_gd.install
+END
+imageapi_imagemagick.module
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imageapi/imageapi_imagemagick.module
+END

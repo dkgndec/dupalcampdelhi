@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/comment_notify
+END
+comment_notify.install
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/comment_notify/comment_notify.install
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/comment_notify/LICENSE.txt
+END
+comment_notify-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/comment_notify/comment_notify-rtl.css
+END
+comment_notify.css
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/comment_notify/comment_notify.css
+END
+INSTALL.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/comment_notify/INSTALL.TXT
+END
+comment_notify.info
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/comment_notify/comment_notify.info
+END
+comment_notify.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/comment_notify/comment_notify.js
+END
+comment_notify.test
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/comment_notify/comment_notify.test
+END
+comment_notify.module
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/comment_notify/comment_notify.module
+END

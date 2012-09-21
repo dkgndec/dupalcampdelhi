@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes
+END
+node_form.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes/node_form.inc
+END
+signup_cancel.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes/signup_cancel.inc
+END
+node_admin_summary.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes/node_admin_summary.inc
+END
+event.6x-2.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes/event.6x-2.inc
+END
+date.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes/date.inc
+END
+scheduler.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes/scheduler.inc
+END
+admin.settings.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes/admin.settings.inc
+END
+signup_form.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes/signup_form.inc
+END
+token_help.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes/token_help.inc
+END
+no_views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes/no_views.inc
+END
+signup_edit_form.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes/signup_edit_form.inc
+END
+node_admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes/node_admin.inc
+END
+cron.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes/cron.inc
+END
+admin.signup_administration.inc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes/admin.signup_administration.inc
+END
+broadcast.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes/broadcast.inc
+END
+node_settings.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes/node_settings.inc
+END
+node_output.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/includes/node_output.inc
+END

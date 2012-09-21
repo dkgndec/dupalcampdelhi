@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/theme
+END
+date-views-filter-form.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/theme/date-views-filter-form.tpl.php
+END
+date-valarm.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/theme/date-valarm.tpl.php
+END
+date-vevent.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/theme/date-vevent.tpl.php
+END
+theme.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/theme/theme.inc
+END
+date-navigation.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/theme/date-navigation.tpl.php
+END
+date-vcalendar.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/theme/date-vcalendar.tpl.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield_meta/includes
+END
+filefield_meta_handler_field_tags.inc
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield_meta/includes/filefield_meta_handler_field_tags.inc
+END
+filefield_meta_handler_field_duration.inc
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield_meta/includes/filefield_meta_handler_field_duration.inc
+END
+filefield_meta_handler_field_bitrate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield_meta/includes/filefield_meta_handler_field_bitrate.inc
+END
+filefield_meta.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield_meta/includes/filefield_meta.views.inc
+END
+filefield_meta_handler_field_samplerate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield_meta/includes/filefield_meta_handler_field_samplerate.inc
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/shipping/uc_flatrate
+END
+uc_flatrate.info
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/shipping/uc_flatrate/uc_flatrate.info
+END
+uc_flatrate.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/shipping/uc_flatrate/uc_flatrate.admin.inc
+END
+uc_flatrate.module
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/shipping/uc_flatrate/uc_flatrate.module
+END
+uc_flatrate.install
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/shipping/uc_flatrate/uc_flatrate.install
+END

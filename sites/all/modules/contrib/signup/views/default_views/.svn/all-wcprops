@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/views/default_views
+END
+signup_user_admin_list.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/views/default_views/signup_user_admin_list.view.php
+END
+signup_user_vbo_admin_list.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/views/default_views/signup_user_vbo_admin_list.view.php
+END
+signup_available_signups.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/views/default_views/signup_available_signups.view.php
+END
+signup_user_list.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/views/default_views/signup_user_list.view.php
+END
+signup_current_signups.view.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/views/default_views/signup_current_signups.view.php
+END

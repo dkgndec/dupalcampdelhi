@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imagefield
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imagefield/LICENSE.txt
+END
+imagefield.info
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imagefield/imagefield.info
+END
+imagefield_formatter.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imagefield/imagefield_formatter.inc
+END
+imagefield_widget.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imagefield/imagefield_widget.inc
+END
+UPGRADE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imagefield/UPGRADE.txt
+END
+imagefield.module
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imagefield/imagefield.module
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imagefield/README.txt
+END
+imagefield.install
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imagefield/imagefield.install
+END
+imagefield.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imagefield/imagefield.css
+END
+imagefield_file.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/imagefield/imagefield_file.inc
+END

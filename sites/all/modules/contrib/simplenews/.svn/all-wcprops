@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews
+END
+simplenews.info
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/simplenews.info
+END
+simplenews.subscription.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/simplenews.subscription.inc
+END
+simplenews.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/simplenews.admin.inc
+END
+simplenews.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/simplenews.views.inc
+END
+simplenews.install
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/simplenews.install
+END
+simplenews-status.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/simplenews-status.tpl.php
+END
+simplenews_handler_field_newsletter_s_status.inc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/simplenews_handler_field_newsletter_s_status.inc
+END
+simplenews-newsletter-body.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/simplenews-newsletter-body.tpl.php
+END
+simplenews-newsletter-footer.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/simplenews-newsletter-footer.tpl.php
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/LICENSE.txt
+END
+simplenews.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/simplenews.js
+END
+simplenews_handler_filter_newsletter_s_status.inc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/simplenews_handler_filter_newsletter_s_status.inc
+END
+simplenews-block.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/simplenews-block.tpl.php
+END
+sn-cron.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/sn-cron.png
+END
+sn-saved.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/sn-saved.png
+END
+sn-term.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/sn-term.png
+END
+simplenews.module
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/simplenews.module
+END
+sn-sent.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/sn-sent.png
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/README.txt
+END
+simplenews.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/15649/SRIJANCON/trunk/sites/all/modules/contrib/simplenews/simplenews.css
+END

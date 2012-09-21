@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_events
+END
+cod_events.info
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_events/cod_events.info
+END
+cod_events.features.content.inc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_events/cod_events.features.content.inc
+END
+cod_events.strongarm.inc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_events/cod_events.strongarm.inc
+END
+cod_events.module
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_events/cod_events.module
+END
+cod_events.features.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_events/cod_events.features.inc
+END
+cod_events.install
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_events/cod_events.install
+END

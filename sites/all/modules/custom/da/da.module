@@ -1,0 +1,101 @@
+<?php
+/**
+* Implementation of hook_help().
+*/
+function da_help( $path, $arg )
+{
+  switch ( $path )
+  {
+    case 'admin/help#da':
+    {
+      return( '<p>' . t('This module allows users who login with e-mail addresses to authenticate off an external system.') . '</p>' );
+    }
+  }
+}
+function da_form_alter(&$form, $form_state, $form_id) {
+	switch ($form_id) {
+		case 'user_login':
+		case 'user_login_block':
+			$form['name']['#title'] = t('Drupal Org id');
+			break;
+	}
+}
+/**
+   * Implementation of hook_form_alter().
+   *
+   * Change the normal form login form behaviour.
+   */
+function da_form_user_login_alter( &$form, $form_state )
+{
+	$form['name']['#title'] = t('Drupal Org Id');
+  unset($form['links']);
+  $form['#validate'] = array(  'user_login_name_validate', 'da_login_validate', 'user_login_final_validate' );
+}
+
+function da_form_user_login_block_alter( &$form, $form_state )
+{
+  return da_form_user_login_alter( $form, $form_state );
+}
+
+/**
+* The da_auth() function attempts to authenticate a user off the external system using their e-mail address.
+*/
+function da_login_validate( $form, &$form_state )
+{
+    $username = $form_state['values']['name'];
+    $password = $form_state['values']['pass'];
+    // Check if the username is admin log in as normal Drupal Behaviour
+    if ($username != 'admin') {
+    	// Use curl to authenticate user against the D.O credentials
+      if(da_curl_drupal_user_check($username, $password)) {
+      	// If authenticated check if user exists
+      	$user_information = da_userexists($username);
+      	if( isset($user_information->uid)) {
+      		user_save($user_information->uid,array('pass' => $password));
+      	}
+      	else {
+      		$user = array(
+      			'name' => $username,
+      			'pass' => $password,
+      			'status' => 1, 
+      		);
+      		user_save(null,$user);
+      	}
+      	user_login_authenticate_validate( $form, &$form_state );
+      }	
+    } else {
+    	user_login_authenticate_validate( $form, &$form_state );
+    }
+    
+}
+
+function da_userexists($username) {
+	$result = db_query("SELECT uid from {users} where name = '%s'", $username);
+	$user = db_fetch_object($result);
+	return $user;
+}
+
+function da_curl_drupal_user_check($username, $pass) {
+  $ch = curl_init();
+  curl_setopt($ch, CURLOPT_URL,"http://drupal.org/user/login");
+  curl_setopt($ch, CURLOPT_HEADER, 1);
+  curl_setopt($ch, CURLOPT_USERAGENT, "Drupal Module PHP script");
+  curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+  curl_setopt($ch, CURLOPT_POST, 1);
+  curl_setopt($ch, CURLOPT_POSTFIELDS, "name=".$username."&pass=".$pass."&form_id=user_login");
+  ob_start();
+  curl_exec ($ch);
+  $result = ob_get_contents();
+  curl_setopt($ch, CURLOPT_URL,"http://drupal.org/logout");
+  curl_close ($ch);
+  ob_end_clean();
+  unset($ch);
+  $findme = "Full name";
+  $pos = strpos($result, $findme);
+  if ($pos === false) {
+    return false;
+  }
+  else {
+    return true;
+  }
+}

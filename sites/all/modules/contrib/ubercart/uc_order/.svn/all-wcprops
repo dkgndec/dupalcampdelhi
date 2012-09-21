@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/uc_order
+END
+uc_order.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/uc_order/uc_order.admin.inc
+END
+uc_order.module
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/uc_order/uc_order.module
+END
+uc_order.install
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/uc_order/uc_order.install
+END
+uc_order.order_pane.inc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/uc_order/uc_order.order_pane.inc
+END
+uc_order.css
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/uc_order/uc_order.css
+END
+uc_order.ca.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/uc_order/uc_order.ca.inc
+END
+uc_order.info
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/uc_order/uc_order.info
+END
+uc_order.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/uc_order/uc_order.js
+END
+uc_order.line_item.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/uc_order/uc_order.line_item.inc
+END

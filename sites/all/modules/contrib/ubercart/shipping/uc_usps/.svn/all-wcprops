@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/shipping/uc_usps
+END
+uc_usps.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/shipping/uc_usps/uc_usps.admin.inc
+END
+uc_usps.countries.inc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/shipping/uc_usps/uc_usps.countries.inc
+END
+uc_usps.module
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/shipping/uc_usps/uc_usps.module
+END
+uc_usps_logo.gif
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/shipping/uc_usps/uc_usps_logo.gif
+END
+uc_usps.install
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/shipping/uc_usps/uc_usps.install
+END
+uc_usps.info
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/shipping/uc_usps/uc_usps.info
+END

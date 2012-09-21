@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session
+END
+cod_session.features.menu_links.inc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session/cod_session.features.menu_links.inc
+END
+cod_session.views_default.inc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session/cod_session.views_default.inc
+END
+cod-session-calendar.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session/cod-session-calendar.tpl.php
+END
+cod_session.features.user_permission.inc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session/cod_session.features.user_permission.inc
+END
+cod_session.info
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session/cod_session.info
+END
+cod_session_views_style_plugin_calendar.inc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session/cod_session_views_style_plugin_calendar.inc
+END
+cod_session.features.content.inc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session/cod_session.features.content.inc
+END
+cod_session.features.uuid_node.inc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session/cod_session.features.uuid_node.inc
+END
+cod_session.features.user_role.inc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session/cod_session.features.user_role.inc
+END
+cod_session.strongarm.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session/cod_session.strongarm.inc
+END
+cod_session.features.fieldgroup.inc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session/cod_session.features.fieldgroup.inc
+END
+cod_session.module
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session/cod_session.module
+END
+cod_session.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session/cod_session.views.inc
+END
+cod_session.features.inc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/cod_support/cod_session/cod_session.features.inc
+END

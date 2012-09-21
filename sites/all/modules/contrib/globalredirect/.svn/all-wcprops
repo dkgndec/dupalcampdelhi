@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/globalredirect
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/globalredirect/LICENSE.txt
+END
+globalredirect.test
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/globalredirect/globalredirect.test
+END
+globalredirect.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/globalredirect/globalredirect.admin.inc
+END
+globalredirect.module
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/globalredirect/globalredirect.module
+END
+globalredirect.install
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/globalredirect/globalredirect.install
+END
+globalredirect.info
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/globalredirect/globalredirect.info
+END

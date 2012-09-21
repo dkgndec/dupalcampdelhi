@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/panels/includes
+END
+common.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/panels/includes/common.inc
+END
+display-edit.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/panels/includes/display-edit.inc
+END
+panels.pipelines.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/panels/includes/panels.pipelines.inc
+END
+page-wizard.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/panels/includes/page-wizard.inc
+END
+callbacks.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/panels/includes/callbacks.inc
+END
+display-layout.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/panels/includes/display-layout.inc
+END
+plugins.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/panels/includes/plugins.inc
+END
+display-render.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/panels/includes/display-render.inc
+END
+legacy.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/panels/includes/legacy.inc
+END

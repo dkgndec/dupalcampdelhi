@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/theme
+END
+email.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/theme/email.inc
+END
+admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/theme/admin.inc
+END
+signup_form.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/theme/signup_form.inc
+END
+node.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/theme/node.admin.inc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/theme/README.txt
+END
+node.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/theme/node.inc
+END

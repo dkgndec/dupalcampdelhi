@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/context/tests
+END
+context.test
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/context/tests/context.test
+END
+context.reactions.test
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/context/tests/context.reactions.test
+END
+context.conditions.test
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/context/tests/context.conditions.test
+END

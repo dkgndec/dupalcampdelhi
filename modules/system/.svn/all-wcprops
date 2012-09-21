@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system
+END
+admin.css
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/admin.css
+END
+maintenance-page.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/maintenance-page.tpl.php
+END
+system.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/system.admin.inc
+END
+system.install
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/system.install
+END
+defaults-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/defaults-rtl.css
+END
+defaults.css
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/defaults.css
+END
+system-menus-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/system-menus-rtl.css
+END
+system.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/system.js
+END
+system-menus.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/system-menus.css
+END
+page.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/page.tpl.php
+END
+system.module
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/system.module
+END
+maintenance.css
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/maintenance.css
+END
+system-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/system-rtl.css
+END
+system.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/system.css
+END
+box.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/box.tpl.php
+END
+system.info
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/system.info
+END
+block.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/block.tpl.php
+END
+admin-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/system/admin-rtl.css
+END

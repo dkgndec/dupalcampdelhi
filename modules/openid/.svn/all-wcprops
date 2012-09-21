@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/openid
+END
+login-bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/openid/login-bg.png
+END
+openid.module
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/openid/openid.module
+END
+openid.install
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/openid/openid.install
+END
+openid.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/openid/openid.pages.inc
+END
+openid.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/openid/openid.css
+END
+openid.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/openid/openid.inc
+END
+openid.info
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/openid/openid.info
+END
+xrds.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/openid/xrds.inc
+END
+openid.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/openid/openid.js
+END

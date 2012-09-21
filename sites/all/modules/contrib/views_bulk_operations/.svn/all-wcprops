@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15629/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations
+END
+actions_permissions.module
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/actions_permissions.module
+END
+views_bulk_operations.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/views_bulk_operations.views.inc
+END
+views_bulk_operations.install
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/views_bulk_operations.install
+END
+views_bulk_operations_plugin_style.inc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/views_bulk_operations_plugin_style.inc
+END
+profile.action.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/profile.action.inc
+END
+actions_permissions.info
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/actions_permissions.info
+END
+views_bulk_operations.views_default.inc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/views_bulk_operations.views_default.inc
+END
+delete.action.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/delete.action.inc
+END
+profile.action.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/profile.action.js
+END
+script.action.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/script.action.inc
+END
+views_bulk_operations.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/views_bulk_operations.js
+END
+fields.action.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/fields.action.inc
+END
+fields.action.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/fields.action.js
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/LICENSE.txt
+END
+views_bulk_operations.module
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/views_bulk_operations.module
+END
+taxonomy.action.inc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/taxonomy.action.inc
+END
+views_bulk_operations.action.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/views_bulk_operations.action.js
+END
+views_bulk_operations.css
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/views_bulk_operations.css
+END
+archive.action.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/archive.action.inc
+END
+user_roles.action.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/user_roles.action.inc
+END
+argument_selector.action.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/argument_selector.action.inc
+END
+ruleset.action.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/ruleset.action.inc
+END
+views_bulk_operations.info
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/views_bulk_operations.info
+END
+views_bulk_operations.drush.inc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/views_bulk_operations.drush.inc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/15629/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/README.txt
+END
+views_bulk_operations.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/views_bulk_operations/views_bulk_operations.rules.inc
+END

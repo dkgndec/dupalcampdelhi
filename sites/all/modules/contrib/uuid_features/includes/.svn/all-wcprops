@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/uuid_features/includes
+END
+uuid_features.drush.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/uuid_features/includes/uuid_features.drush.inc
+END
+uuid_node.features.inc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/uuid_features/includes/uuid_node.features.inc
+END
+uuid_term.features.inc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/uuid_features/includes/uuid_term.features.inc
+END
+uuid_vocabulary.features.inc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/uuid_features/includes/uuid_vocabulary.features.inc
+END
+uuid_file.features.inc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/uuid_features/includes/uuid_file.features.inc
+END

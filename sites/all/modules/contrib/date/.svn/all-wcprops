@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date
+END
+date_api.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date_api.js
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/INSTALL.txt
+END
+date_api.module
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date_api.module
+END
+date_api_sql.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date_api_sql.inc
+END
+date_api.info
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date_api.info
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/LICENSE.txt
+END
+date-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date-rtl.css
+END
+date.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date.css
+END
+date_api_formats_list.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date_api_formats_list.inc
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/CHANGELOG.txt
+END
+date_api.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date_api.admin.inc
+END
+date_api_ical.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date_api_ical.inc
+END
+date_api_elements.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date_api_elements.inc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/README.txt
+END
+date_api.install
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/date/date_api.install
+END

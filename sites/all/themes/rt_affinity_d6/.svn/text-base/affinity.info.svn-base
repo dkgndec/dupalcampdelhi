@@ -1,0 +1,49 @@
+name = Affinity
+project = rt_affinity_d6
+project status url = http://updates.rockettheme.com/drupal/release-history
+description = Rockettheme Affinity Theme for Drupal
+version = 6.x-1.2
+core = 6.x
+engine = phptemplate
+
+features[] = logo
+features[] = favicon
+
+regions[top_left] = Top Left
+regions[top_right] = Top Right
+
+regions[logo_region] = Logo
+regions[search] = Search
+
+
+regions[showcase] = Showcase
+regions[user123] = User 123
+
+regions[left] = Left
+
+regions[main123] = Main 123
+regions[main456] = Main 456
+
+regions[right] = Right
+
+regions[user456] = User 456
+regions[user789] = User 789
+
+regions[bottom_menu] = Bottom Menu
+
+regions[bottom] = Bottom
+regions[footer] = Footer
+regions[copyright_block] = Copyright
+regions[debug] = Debug
+
+stylesheets[all][] = css/typography.css
+stylesheets[all][] = css/headers.css
+stylesheets[all][] = css/drupal.css
+stylesheets[all][] = css/template_css.css
+
+scripts[] = js/custom.js
+
+
+
+
+

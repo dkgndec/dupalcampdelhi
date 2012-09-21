@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/context
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/context/LICENSE.txt
+END
+context.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/context/context.api.php
+END
+context.core.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/context/context.core.inc
+END
+API.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/context/API.txt
+END
+context.module
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/context/context.module
+END
+context.install
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/context/context.install
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/context/README.txt
+END
+context.plugins.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/context/context.plugins.inc
+END
+context.info
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/context/context.info
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/25245/SRIJANCON/trunk/sites/all/modules/contrib/mollom
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/25245/SRIJANCON/trunk/sites/all/modules/contrib/mollom/LICENSE.txt
+END
+mollom.admin.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/25245/SRIJANCON/trunk/sites/all/modules/contrib/mollom/mollom.admin.js
+END
+mollom.module
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/25245/SRIJANCON/trunk/sites/all/modules/contrib/mollom/mollom.module
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/25245/SRIJANCON/trunk/sites/all/modules/contrib/mollom/INSTALL.txt
+END
+mollom.install
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/25245/SRIJANCON/trunk/sites/all/modules/contrib/mollom/mollom.install
+END
+mollom.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/25245/SRIJANCON/trunk/sites/all/modules/contrib/mollom/mollom.pages.inc
+END
+mollom.css
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/25245/SRIJANCON/trunk/sites/all/modules/contrib/mollom/mollom.css
+END
+mollom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/25245/SRIJANCON/trunk/sites/all/modules/contrib/mollom/mollom.inc
+END
+mollom-captcha-player.swf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/25245/SRIJANCON/trunk/sites/all/modules/contrib/mollom/mollom-captcha-player.swf
+END
+mollom.info
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/25245/SRIJANCON/trunk/sites/all/modules/contrib/mollom/mollom.info
+END
+mollom.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/25245/SRIJANCON/trunk/sites/all/modules/contrib/mollom/mollom.js
+END
+mollom.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/25245/SRIJANCON/trunk/sites/all/modules/contrib/mollom/mollom.api.php
+END
+mollom.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/25245/SRIJANCON/trunk/sites/all/modules/contrib/mollom/mollom.admin.inc
+END

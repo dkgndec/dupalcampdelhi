@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield
+END
+filefield.install
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield.install
+END
+filefield.devel.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield.devel.inc
+END
+field_file.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/field_file.inc
+END
+filefield.theme.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield.theme.inc
+END
+filefield_field.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield_field.inc
+END
+filefield.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield.js
+END
+filefield_widget.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield_widget.inc
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/LICENSE.txt
+END
+UPGRADE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/UPGRADE.txt
+END
+filefield.module
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield.module
+END
+filefield-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield-rtl.css
+END
+filefield.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield.css
+END
+filefield.token.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield.token.inc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/README.txt
+END
+filefield.info
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield.info
+END
+filefield_formatter.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/filefield/filefield_formatter.inc
+END

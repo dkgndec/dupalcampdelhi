@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_cybersource
+END
+uc_cybersource.module
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_cybersource/uc_cybersource.module
+END
+uc_cybersource.install
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_cybersource/uc_cybersource.install
+END
+uc_cybersource.soap.inc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_cybersource/uc_cybersource.soap.inc
+END
+uc_cybersource.info
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_cybersource/uc_cybersource.info
+END

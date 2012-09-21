@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_credit
+END
+uc_credit.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_credit/uc_credit.admin.inc
+END
+test_gateway.module
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_credit/test_gateway.module
+END
+uc_credit.module
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_credit/uc_credit.module
+END
+uc_credit.install
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_credit/uc_credit.install
+END
+uc_credit.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_credit/uc_credit.pages.inc
+END
+test_gateway.info
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_credit/test_gateway.info
+END
+uc_credit.info
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_credit/uc_credit.info
+END
+uc_credit.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/ubercart/payment/uc_credit/uc_credit.js
+END

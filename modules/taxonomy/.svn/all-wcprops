@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/taxonomy
+END
+taxonomy.module
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/taxonomy/taxonomy.module
+END
+taxonomy.install
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/taxonomy/taxonomy.install
+END
+taxonomy.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/taxonomy/taxonomy.pages.inc
+END
+taxonomy.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/taxonomy/taxonomy.css
+END
+taxonomy.info
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/taxonomy/taxonomy.info
+END
+taxonomy.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/taxonomy/taxonomy.js
+END
+taxonomy.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/taxonomy/taxonomy.admin.inc
+END

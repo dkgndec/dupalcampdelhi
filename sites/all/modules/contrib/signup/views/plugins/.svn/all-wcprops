@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/views/plugins
+END
+signup_plugin_access_user_signup_list.inc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/views/plugins/signup_plugin_access_user_signup_list.inc
+END
+signup_plugin_argument_validate_signup_status.inc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/signup/views/plugins/signup_plugin_argument_validate_signup_status.inc
+END

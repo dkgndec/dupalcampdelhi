@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/poll
+END
+poll.info
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/poll/poll.info
+END
+poll-results-block.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/poll/poll-results-block.tpl.php
+END
+poll-bar-block.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/poll/poll-bar-block.tpl.php
+END
+poll-vote.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/poll/poll-vote.tpl.php
+END
+poll-results.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/poll/poll-results.tpl.php
+END
+poll.module
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/poll/poll.module
+END
+poll.install
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/poll/poll.install
+END
+poll-bar.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/poll/poll-bar.tpl.php
+END
+poll-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/poll/poll-rtl.css
+END
+poll.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/poll/poll.pages.inc
+END
+poll.css
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/poll/poll.css
+END

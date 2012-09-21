@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/features
+END
+features.module
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/features/features.module
+END
+features.install
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/features/features.install
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/features/CHANGELOG.txt
+END
+PATCHES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/features/PATCHES.txt
+END
+features.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/features/features.css
+END
+features.export.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/features/features.export.inc
+END
+API.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/features/API.txt
+END
+features.info
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/features/features.info
+END
+features.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/features/features.js
+END
+features.drush.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/features/features.drush.inc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/features/README.txt
+END
+features.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/features/features.api.php
+END
+features.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/15125/SRIJANCON/trunk/sites/all/modules/contrib/features/features.admin.inc
+END

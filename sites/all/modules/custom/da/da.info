@@ -1,0 +1,8 @@
+; $Id: pathauto.info,v 1.4 2011/10/12 $
+name = drupalorg login
+description = This module is for Drupal Assessments custom changes.
+package = Drupal Assessments
+version = "6.x"
+core = 6.x
+
+

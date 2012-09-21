@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/update
+END
+update.compare.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/update/update.compare.inc
+END
+update.fetch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/update/update.fetch.inc
+END
+update.report.inc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/update/update.report.inc
+END
+update.module
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/update/update.module
+END
+update.install
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/update/update.install
+END
+update-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/update/update-rtl.css
+END
+update.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/update/update.css
+END
+update.settings.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/update/update.settings.inc
+END
+update.info
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15125/SRIJANCON/trunk/modules/update/update.info
+END

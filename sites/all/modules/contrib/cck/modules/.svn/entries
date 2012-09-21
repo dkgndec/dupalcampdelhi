@@ -1,0 +1,55 @@
+10
+
+dir
+25369
+https://srijan.jira.com/svn/SRIJANCON/trunk/sites/all/modules/contrib/cck/modules
+https://srijan.jira.com/svn
+
+
+
+2011-04-04T07:06:16.187832Z
+15125
+agupta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e6edf6fb-f266-4316-afb4-e53d95876a76
+
+optionwidgets
+dir
+
+fieldgroup
+dir
+
+content_multigroup
+dir
+
+content_copy
+dir
+
+nodereference
+dir
+
+text
+dir
+
+content_permissions
+dir
+
+number
+dir
+
+userreference
+dir
+
