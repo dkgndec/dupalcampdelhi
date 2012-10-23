@@ -482,6 +482,3 @@ div.k2TagCloudBlock {overflow: hidden;}
 div.k2TagCloudBlock a {padding:4px;float:left;display:block;}
 div.k2TagCloudBlock a:hover {padding:4px;float:left;display:block;text-decoration:none;}
 div.k2TagCloudBlock a:hover {background:#eee;color:#333;}
-
-/* fb like box */
-.fbConnectWidgetTopmost {width:240px !important;}

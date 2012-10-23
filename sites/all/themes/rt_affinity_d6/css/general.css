@@ -46,8 +46,8 @@ ul.primary li a:hover {
 form .item-list ul {
 	padding: 10px 0 10px 0;
 }
-form .item-list ul li { 
-	text-align: left; 
+form .item-list ul li {
+	text-align: left;
 	padding: 0;
 }
 form .item-list ul li a { font-weight: normal; }
@@ -64,7 +64,7 @@ form .item-list ul li a { font-weight: normal; }
 #main-body ul.menu li.active-trail a.active,
 #main-body ul.menu li.active-trail ul.menu li.active a.active,
 #rightcol ul.menu li.active-trail a.active,
-#rightcol ul.menu li.active-trail ul.menu a.active, 
+#rightcol ul.menu li.active-trail ul.menu a.active,
 {font-weight: bold;}
 
 #rightcol .side-mod .item-list h3 { background: none; margin-left: -15px; border-bottom: 0;}
@@ -103,7 +103,7 @@ body.style6 .poll .bar .foreground, body.light-orange .poll .bar .foreground { b
 	border: 0;
 	padding-left: 10px;
 	*/
-	background: transparent; 
+	background: transparent;
 	border: 0px solid #000;
 	font-size: 13px;
 	margin-left: 7px;
@@ -182,7 +182,7 @@ form#search-wipe-confirm .Button a {
 	padding-left: 0px;
 }
 
-form#user-login #edit-name, 
+form#user-login #edit-name,
 form#user-login #edit-pass,
 form#user-pass #edit-name,
 form#user-register #edit-name,
@@ -227,3 +227,7 @@ border-right: 2px dashed #ccc;
 .view-Sponsors .view-content td.col-2 {
 padding-left: 65px;
 }
+
+/* fb like box */
+#LikeboxPluginPagelet .fbConnectWidgetTopmost {width:240px !important;}
+#LikeboxPluginPagelet #u4o19a51 {width: 240px !important;}
