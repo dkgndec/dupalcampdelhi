@@ -161,7 +161,7 @@ body {
     background: none repeat scroll 0 0 white;
     margin: 0 !important;
     padding: 16px 30px;
-    width: 660px;
+    width: 598px;
 }
 
 #sidebar-last .block {
@@ -260,10 +260,18 @@ ul.primary-links li:hover {
   background: none repeat scroll 0 0 #E5E5E5;
 }
 
+#page {
+  width: 962px !important;
+}
 
+.columns-inner #content-column {
+  width: 658px;
+}
 
-
-
+#columns #sidebar-last {
+  margin-left: 25px;
+  width: 275px;
+}
 
 
 
