@@ -256,7 +256,9 @@ p, a {
   padding: 15px 0;
 }
 
-
+ul.primary-links li:hover {
+  background: none repeat scroll 0 0 #E5E5E5;
+}
 
 
 
