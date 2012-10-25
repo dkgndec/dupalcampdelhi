@@ -295,7 +295,7 @@ ul.primary-links li:hover {
 }
 
 #sidebar-last .block h2 {
-  background: none repeat scroll 0 0 #669932;
+  background: none repeat scroll 0 0 #669933;
   color: white;
   display: inline-block;
   font-size: 14px;
@@ -303,6 +303,19 @@ ul.primary-links li:hover {
   margin-bottom: 10px;
 }
 
+#block-block-23 {
+  background: none repeat scroll 0 0 #669933;
+  display: inline-block;
+  float: right;
+  margin-bottom: 8px;
+  margin-right: 20px;
+  margin-top: 15px;
+  padding: 10px;
+}
+
+#block-block-23 h2 {
+  color: white;
+}
 
 
 
