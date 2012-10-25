@@ -1,4 +1,4 @@
-/** 
+/**
  */
 
 #header {
@@ -167,7 +167,7 @@ body {
 #sidebar-last .block {
   background: #ffffff;
   margin: 0 0 20px 20px;
-  padding-top: 10px; 
+  padding-top: 10px;
   padding-bottom: 10px;
 }
 
@@ -189,6 +189,7 @@ body {
 .primary-links li a {
   color: #CC9933;
   text-decoration: none;
+  font-weight: bold;
 }
 
 .primary-links li {
@@ -273,13 +274,34 @@ ul.primary-links li:hover {
   width: 275px;
 }
 
+#sidebar-last ul {
+  padding-left: 0 !important;
+}
 
+#sidebar-last ul.menu li a{
+  color: #808080;
+  font-size: 16px;
+  text-decoration: none;
+  background: url("/sites/all/themes/drupalcampdelhi/images/arrow.png") no-repeat scroll 5px 12px transparent;
+  padding-left: 15px;
+}
 
+#sidebar-last ul.menu li {
+  list-style: none outside none;
+}
 
+#breadcrumb {
+  display: none;
+}
 
-
-
-
+#sidebar-last .block h2 {
+  background: none repeat scroll 0 0 #669932;
+  color: white;
+  display: inline-block;
+  font-size: 14px;
+  padding: 0 5px 1px;
+  margin-bottom: 10px;
+}
 
 
 
