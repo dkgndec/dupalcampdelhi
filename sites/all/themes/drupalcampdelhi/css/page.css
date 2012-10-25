@@ -167,6 +167,12 @@ body {
     -webkit-box-shadow: 0 0 3px #888888;
 }
 
+#block-menu-menu-quick-link, #block-block-22, #block-block-1, #block-block-14 {
+  box-shadow: 0 0 2px #888888;
+    -moz-box-shadow: 0 0 2px #888888;
+    -webkit-box-shadow: 0 0 3px #888888;
+}
+
 #sidebar-last .block {
   background: #ffffff;
   margin: 0 0 20px 20px;
