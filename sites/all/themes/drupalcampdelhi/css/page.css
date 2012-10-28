@@ -326,7 +326,9 @@ ul.primary-links li:hover {
   color: white;
 }
 
-
+.section-user #main-content #page-title {
+  display: none;
+}
 
 
 
