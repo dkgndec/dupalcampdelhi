@@ -210,10 +210,6 @@ body {
   font-weight: bold;
 }
 
-#primary-menu .sfHover {
-  background: #E5E5E5 !important;
-}
-
 .primary-links li {
     padding: 12px;
 }
@@ -283,6 +279,18 @@ ul.primary-links li:hover {
   background: none repeat scroll 0 0 #E5E5E5;
 }
 
+#primary-menu li.sfHover, #primary-menu li:hover {
+  background: #E5E5E5 !important;
+}
+
+.sf-menu li:hover > ul, .sf-menu li.sfHover > ul {
+  top: 4.5em !important;
+}
+
+.sf-menu li:hover > ul li:hover, .sf-menu li.sfHover > ul li:hover{
+  background: #E5E5E5 !important;
+}
+
 #page {
   width: 962px !important;
 }
@@ -339,7 +347,11 @@ ul.primary-links li:hover {
   color: white;
 }
 
-
+#block-block-25 a {
+  color: #808080;
+  font-size: 13px;
+  text-decoration: none;
+}
 
 
 
