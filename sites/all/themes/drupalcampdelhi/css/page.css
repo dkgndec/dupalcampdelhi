@@ -353,11 +353,33 @@ ul.primary-links li:hover {
   text-decoration: none;
 }
 
+li.views-row {
+  float: left;
+  list-style: none !important;
+  margin: 0 10px 0.25em 0;
+  padding: 0;
+  width: 120px;
+}
 
+li.views-row .views-field-picture {
+  border: 1px solid gray;
+}
 
+.user-picture img {
+  height: 110px;
+  width: 100px;
+  padding: 10px;
+}
 
+.views-field-name {
+  border: 1px solid gray;
+  text-align: center;
+}
 
-
+.views-field-name a {
+  padding: 10px;
+  text-decoration: none;
+}
 
 
 
