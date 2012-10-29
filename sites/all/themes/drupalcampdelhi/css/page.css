@@ -200,7 +200,7 @@ body {
     text-decoration: none;
 }
 
-#primary-menu ul.primary-links li {
+#primary-menu .sf-menu li {
   background: none repeat scroll 0 0 #FFFFFF;
 }
 
@@ -208,6 +208,10 @@ body {
   color: #CC9933;
   text-decoration: none;
   font-weight: bold;
+}
+
+#primary-menu .sfHover {
+  background: none repeat scroll 0 0 #E5E5E5;
 }
 
 .primary-links li {
