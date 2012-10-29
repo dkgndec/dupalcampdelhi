@@ -200,6 +200,10 @@ body {
     text-decoration: none;
 }
 
+#primary-menu ul.primary-links li {
+  background: none repeat scroll 0 0 #FFFFFF;
+}
+
 .primary-links li a {
   color: #CC9933;
   text-decoration: none;
