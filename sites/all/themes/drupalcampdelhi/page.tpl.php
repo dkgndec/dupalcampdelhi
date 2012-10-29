@@ -88,7 +88,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<?php print $language->language ?>" lang="<?php print $language->language ?>" dir="<?php print $language->dir ?>">
 <head>
-  <title><?php print $head_title; ?></title>
+  <title><?php if(arg(0) != 'user') { print $head_title; } ?></title>
   <?php print $head; ?>
   <?php print $styles; ?>
   <?php print $layout_settings; ?>
@@ -192,7 +192,7 @@
 
           <?php if ($title || $tabs): ?>
             <div id="main-content-header">
-              <?php if ($title): ?><h1 id="page-title"><?php print $title; ?></h1><?php endif; ?>
+              <?php if ($title && arg(0) != 'user'): ?><h1 id="page-title"><?php print $title; ?></h1><?php endif; ?>
               <?php if ($tabs): ?><div class="local-tasks"><?php print $tabs; ?></div><?php endif; ?>
             </div>
           <?php endif; ?>
@@ -225,7 +225,7 @@
       <div id="tertiary-content"><?php print $tertiary_content; ?></div>
     <?php endif; ?>
 
-    
+
 
   </div> <!-- /page -->
 
