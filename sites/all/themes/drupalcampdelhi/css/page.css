@@ -167,7 +167,7 @@ body {
     -webkit-box-shadow: 0 0 3px #888888;
 }
 
-#block-menu-menu-quick-link, #block-block-22, #block-block-1, #block-block-14, #block-block-21, #block-menu-menu-join-us {
+#sidebar-last .block {
   box-shadow: 0 0 2px #888888;
   -moz-box-shadow: 0 0 2px #888888;
   -webkit-box-shadow: 0 0 3px #888888;
