@@ -385,6 +385,10 @@ li.views-row .views-field-picture {
   float: right;
 }
 
+.article-teaser {
+border-bottom: 1px solid;
+padding-bottom: 20px;
+}
 
 
 
