@@ -167,14 +167,15 @@ body {
     -webkit-box-shadow: 0 0 3px #888888;
 }
 
-#block-menu-menu-quick-link, #block-block-22, #block-block-1, #block-block-14, #block-block-21 {
+#sidebar-last .block {
   box-shadow: 0 0 2px #888888;
-    -moz-box-shadow: 0 0 2px #888888;
-    -webkit-box-shadow: 0 0 3px #888888;
+  -moz-box-shadow: 0 0 2px #888888;
+  -webkit-box-shadow: 0 0 3px #888888;
 }
 
 #messages-and-help {
   padding: 0;
+  margin-top: 63px;
 }
 
 
@@ -385,6 +386,10 @@ li.views-row .views-field-picture {
   float: right;
 }
 
+.article-teaser {
+border-bottom: 1px solid #888;
+padding-bottom: 20px;
+}
 
 
 
