@@ -1,4 +1,5 @@
 <?php
+
 //function to check whether user already checked the checkbox "i am attending"
 function attend_check() {
 global $user;
@@ -11,6 +12,7 @@ else
 return false;
 	}
 
+//drupal from for checkbox in the block 
 function attend_form_block_alter() {
 $form['profile_attending'] = array(
     '#type' => 'checkbox', 
@@ -32,15 +34,16 @@ if(attend_check() == true) {
 function attend_validate() {
 }
 
+// submit handler for the drupal from @see attend_form_block_alter
 function attend_submit() {
 global $user;
-$user = $user->uid;
-$query= db_query("select fid from {profile_values} where fid='%d' and uid='%d'",7,$user);
+$uid = $user->uid;
+$query= db_query("select fid from {profile_values} where fid='%d' and uid='%d'",7,$uid);
 if (mysql_num_rows($query)) {
-db_query("update {profile_values} set value='1' where uid='%d' AND fid='%d'",$user,7);
+db_query("update {profile_values} set value='1' where uid='%d' AND fid='%d'",$uid,7);
 }
 else {
-db_query("INSERT INTO {profile_values} (fid, uid, value) VALUES (%d, %d, '%s')", 7, $user,1);
+db_query("INSERT INTO {profile_values} (fid, uid, value) VALUES (%d, %d, '%s')", 7, $uid,1);
 drupal_set_message(t('we will book a seat for you!!!'));
 }
 }
@@ -64,6 +67,7 @@ if (attend_check() == false) {
       case 0:
     	  $block['subject'] = t('I am attending');
           $block['content'] = drupal_get_form('attend_form_block_alter');
+	  $block['weight'] = -9999;
         }
         return $block;
 }  
