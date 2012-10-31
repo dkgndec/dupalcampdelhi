@@ -1,0 +1,71 @@
+<?php
+//function to check whether user already checked the checkbox "i am attending"
+function attend_check() {
+global $user;
+$flags = db_query("select value from {profile_values} where uid='%d' AND value='%d' AND fid='%d'", $user->uid,1,7);
+$results= array();
+while ($row = db_fetch_array($flags)){ $results[] = $row;}
+if($results[0][value] == 1) {
+return true; }
+else 
+return false;
+	}
+
+function attend_form_block_alter() {
+$form['profile_attending'] = array(
+    '#type' => 'checkbox', 
+    '#title' => t("I am attending drupal camp delhi 2012."), 
+    '#required' => TRUE,
+  );
+
+if(attend_check() == true) {
+  $form['profile_attending']['#default_value']=array(1);
+}
+  $form['submit'] = array('#type' => 'submit',
+    '#value' => t('submit'),
+  );
+  $form['#validate'][] = 'attend_validate';
+  $form['#submit'][] = 'attend_submit';
+  return $form;
+}
+
+function attend_validate() {
+}
+
+function attend_submit() {
+global $user;
+$user = $user->uid;
+$query= db_query("select fid from {profile_values} where fid='%d' and uid='%d'",7,$user);
+if (mysql_num_rows($query)) {
+db_query("update {profile_values} set value='1' where uid='%d' AND fid='%d'",$user,7);
+}
+else {
+db_query("INSERT INTO {profile_values} (fid, uid, value) VALUES (%d, %d, '%s')", 7, $user,1);
+drupal_set_message(t('we will book a seat for you!!!'));
+}
+}
+/**
+ * Implementation of hook_block().
+ */
+function attend_block($op = 'list', $delta = 0, $edit = array()) {
+  global $user;
+
+  if ($op == 'list') {
+    $blocks[0]['info'] = t('User login attend');
+    // Not worth caching.
+    $blocks[0]['cache'] = BLOCK_NO_CACHE;
+    return $blocks;
+  }
+ 
+  else if($op == 'view') {
+    $block = array();
+if (attend_check() == false) {
+    switch ($delta) {
+      case 0:
+    	  $block['subject'] = t('I am attending');
+          $block['content'] = drupal_get_form('attend_form_block_alter');
+        }
+        return $block;
+}  
+}
+}

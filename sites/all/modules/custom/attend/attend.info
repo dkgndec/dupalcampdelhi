@@ -1,0 +1,4 @@
+name = attend
+description = I am attending track.
+version = "6.x"
+core = 6.x
