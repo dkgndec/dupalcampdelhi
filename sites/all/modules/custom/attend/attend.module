@@ -16,7 +16,7 @@ return false;
 function attend_form_block_alter() {
 $form['profile_attending'] = array(
     '#type' => 'checkbox', 
-    '#title' => t("I am attending drupal camp delhi 2012."), 
+    '#title' => t("I am attending Drupal Camp Delhi 8 Dec 2012."), 
     '#required' => TRUE,
   );
 
