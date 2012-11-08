@@ -375,6 +375,8 @@ li.views-row .views-field-picture {
 .views-field-name {
   border: 1px solid gray;
   text-align: center;
+  height: 20px;
+  overflow: hidden;
 }
 
 .views-field-name a {
@@ -392,7 +394,13 @@ padding-bottom: 20px;
 }
 
 
-
+/*
+slideshow page theming.
+*/
+.views_slideshow_singleframe_pager               { float: right; }
+.views_slideshow_singleframe_pager > div         { cursor: pointer; background-color: #258CA1; width: 10px; height: 10px; display: inline-block; border-radius: 10px; font-size: 0;}
+.views_slideshow_singleframe_pager > div         { -moz-border-radius: 10px; -webkit-border-radius: 10px; -o-border-radius: 10px; }
+.views_slideshow_singleframe_pager > div.active  { background-color: #31CCE7; }
 
 
 
