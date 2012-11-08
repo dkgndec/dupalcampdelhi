@@ -398,7 +398,7 @@ padding-bottom: 20px;
 slideshow page theming.
 */
 .views_slideshow_singleframe_pager               { float: right; }
-.views_slideshow_singleframe_pager > div         { cursor: pointer; background-color: #258CA1; width: 10px; height: 10px; display: inline-block; border-radius: 10px; font-size: 0;}
+.views_slideshow_singleframe_pager > div         { cursor: pointer; background-color: #258CA1; width: 0px; height: 10px; display: inline-block; border-radius: 10px; font-size: 0; margin-right: 5px;}
 .views_slideshow_singleframe_pager > div         { -moz-border-radius: 10px; -webkit-border-radius: 10px; -o-border-radius: 10px; }
 .views_slideshow_singleframe_pager > div.active  { background-color: #31CCE7; }
 
