@@ -306,6 +306,9 @@ p, a {
 #block-block-23 span {
   background: none repeat scroll 0 0 black;
   border-radius: 5px 5px 5px 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -o-border-radius: 5px;
   color: white;
   padding: 5px;
 }
@@ -363,8 +366,12 @@ li.views-row .views-field-picture {
   padding: 12px 35px !important;
 }
 
-.sf-menu li.active {
+.sf-menu li.active-trail {
   background: none repeat scroll 0 0 #ffffff !important;
+}
+
+.sf-menu li.active-trail a{
+  color: #0173BA !important;
 }
 
 .sf-menu li:hover {
@@ -404,6 +411,9 @@ border-bottom: 1px solid #888;
 padding-bottom: 20px;
 }
 
+#block-views-homepage_slideshow-block_1 {
+  padding-left: 0;
+}
 
 /*
 slideshow page theming.
