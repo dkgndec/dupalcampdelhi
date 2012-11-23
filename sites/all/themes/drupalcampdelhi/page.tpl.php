@@ -93,6 +93,7 @@
   <?php print $styles; ?>
   <?php print $layout_settings; ?>
   <?php print $scripts; ?>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300|Open+Sans+Condensed:300' rel='stylesheet' type='text/css' />
 </head>
 <body class="<?php print $classes; ?>">
   <div id="page" class="container">
