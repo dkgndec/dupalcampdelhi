@@ -33,6 +33,13 @@ th {
 tr.even,
 tr.odd {
   border-bottom:none;
+  border-top-style:solid;
+  border-top-color:#0173BA;
+  border-top-width:4px;
+  padding-bottom: 20px;
+  padding-top: 30px;
+  padding-left: 40px;
+  padding-right: 10px;
 }
 tr.odd,
 tr.info {

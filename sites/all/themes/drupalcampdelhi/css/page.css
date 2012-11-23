@@ -267,7 +267,7 @@ p, a {
 
 #sidebar-last ul.menu li a{
   color: #808080;
-  font-size: 16px;
+  font-size: 14px;
   text-decoration: none;
   background: url("/sites/all/themes/drupalcampdelhi/images/arrow.png") no-repeat scroll 5px 12px transparent;
   padding-left: 15px;
@@ -411,8 +411,13 @@ border-radius: 0 9px 0 0;
 }
 
 .article-teaser {
-border-bottom: 1px solid #888;
-padding-bottom: 20px;
+ border-top-style:solid;
+  border-top-color:#888;
+  border-top-width:4px;
+  padding-bottom: 20px;
+  padding-top: 30px;
+  padding-left: 40px;
+  padding-right: 10px;
 }
 
 #block-views-homepage_slideshow-block_1, #secondary-content .block-views {
