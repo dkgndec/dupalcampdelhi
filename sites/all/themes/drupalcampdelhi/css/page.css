@@ -470,10 +470,9 @@ slideshow page theming.
 }
 
 #block-block-29 {
-  border-bottom: 1px dotted gray;
-  padding-bottom: 10px;
-  height: 250px;
-  margin-bottom: 10px;
+  width: 155px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
   float: right;
 }
 
