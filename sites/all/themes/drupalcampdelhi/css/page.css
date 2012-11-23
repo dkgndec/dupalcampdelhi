@@ -295,7 +295,7 @@ p, a {
   float: right;
   margin-bottom: 8px;
   margin-right: 20px;
-  margin-top: 50px;
+  margin-top: 62px;
   padding: 10px;
 }
 
@@ -467,4 +467,27 @@ slideshow page theming.
 #block-views-Sponsors-block_1 {
   width: 962px !important;
   margin: 0 auto;
+}
+
+#block-block-29 {
+  border-bottom: 1px dotted gray;
+  padding-bottom: 10px;
+  height: 250px;
+  margin-bottom: 10px;
+}
+
+#block-block-29 .rsvpbutton {
+  background: -moz-linear-gradient(center top , #E9465C, #E11B36) repeat scroll 0 0 #E11B36;
+  background: -webkit-linear-gradient(top , #E9465C, #E11B36) repeat scroll 0 0 #E11B36;
+  background: #E11B36;
+  font-size: 16px;
+  height: 30px;
+  text-align: center;
+  margin-top: 5px;
+}
+
+#block-block-29 .rsvpbutton a {
+  color: white;
+  position: relative;
+  top: 5px;
 }
