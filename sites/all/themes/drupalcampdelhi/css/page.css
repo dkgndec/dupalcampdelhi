@@ -469,14 +469,11 @@ slideshow page theming.
   margin: 0 auto;
 }
 
-#block-block-29 {
-  width: 155px;
-  border-radius: 5px;
-  -moz-border-radius: 5px;
+#block-block-28 {
   float: right;
 }
 
-#block-block-29 .rsvpbutton {
+#block-block-28 .rsvpbutton {
   background: -moz-linear-gradient(center top , #E9465C, #E11B36) repeat scroll 0 0 #E11B36;
   background: -webkit-linear-gradient(top , #E9465C, #E11B36) repeat scroll 0 0 #E11B36;
   background: #E11B36;
@@ -484,10 +481,14 @@ slideshow page theming.
   height: 30px;
   text-align: center;
   margin-top: 5px;
+  width: 155px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
 }
 
-#block-block-29 .rsvpbutton a {
+#block-block-28 .rsvpbutton a {
   color: white;
   position: relative;
   top: 5px;
+  text-decoration: none;
 }
