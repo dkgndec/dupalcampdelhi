@@ -441,3 +441,5 @@ slideshow page theming.
   font-size: 18px;
 }
 
+.view-nadges .view-content { overflow:hidden;}
+.view-nadges .promotion-text{width: 62%; word-break: break-word;}
