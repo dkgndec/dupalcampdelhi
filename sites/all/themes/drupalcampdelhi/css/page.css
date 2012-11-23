@@ -411,9 +411,9 @@ border-radius: 0 9px 0 0;
 }
 
 .article-teaser {
- border-top-style:solid;
-  border-top-color:#888;
-  border-top-width:4px;
+ border-bottom-style:solid;
+  border-bottom-color:#888;
+  border-bottom-width:2px;
   padding-bottom: 20px;
   padding-top: 30px;
   padding-left: 40px;
