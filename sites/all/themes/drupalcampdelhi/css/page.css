@@ -399,7 +399,11 @@ li.views-row .views-field-picture {
 .sf-menu li:hover > ul li:hover, .sf-menu li.sfHover > ul li:hover{
   background: white !important;
   color: #0173BA !important;
-  width: 90% !important;
+  width: 93% !important;
+}
+
+.sf-menu li:hover > ul li:hover:first-child, .sf-menu li.sfHover > ul li:hover:first-child {
+border-radius: 0 9px 0 0;
 }
 
 .sf-menu li:hover > ul li:hover a, .sf-menu li.sfHover > ul li:hover a {
@@ -443,3 +447,24 @@ slideshow page theming.
 
 .view-nadges .view-content { overflow:hidden;}
 .view-nadges .promotion-text{width: 62%; word-break: break-word;}
+
+.view-id-Sponsors.view-display-id-page_2 h3 {
+  color: gray;
+  text-align: center;
+  padding: 10px;
+}
+
+.view-id-Sponsors.view-display-id-page_2 .views-field-field-url-url {
+  text-align: center;
+}
+
+.view-id-Sponsors.view-display-id-page_2 table tr{
+  border-bottom: 1px dashed gray;
+  padding-bottom: 10px;
+  padding-top: 5px;
+}
+
+#block-views-Sponsors-block_1 {
+  width: 962px !important;
+  margin: 0 auto;
+}
