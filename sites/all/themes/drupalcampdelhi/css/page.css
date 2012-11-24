@@ -411,12 +411,12 @@ border-radius: 0 9px 0 0;
   color: #0173BA !important;
 }
 
-.sf-menu li:hover > ul li.active a:active, .sf-menu li.sfHover > ul li.active a:active, .sf-menu li.sfHover > ul li.active a {
-  color: #0173BA !important;
-}
-
 .sf-menu li:hover > ul li.active-trail {
   width: 93% !important;
+}
+
+.sf-menu li:hover > ul li.active-trail a {
+  color: #0173BA !important;
 }
 
 .article-teaser {
