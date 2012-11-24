@@ -397,7 +397,7 @@ li.views-row .views-field-picture {
   color: white !important;
 }
 
-.sf-menu li:hover > ul li:hover, .sf-menu li.sfHover > ul li:hover{
+.sf-menu li:hover > ul li:hover, .sf-menu li.sfHover > ul li:hover, .sf-menu li:hover > ul li.active-trail{
   background: white !important;
   color: #0173BA !important;
   width: 93% !important;
