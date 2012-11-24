@@ -385,6 +385,7 @@ li.views-row .views-field-picture {
 .sf-menu li:hover > ul, .sf-menu li.sfHover > ul {
   top: 4.5em !important;
   background: #0173BA !important;
+  display: block !important;
 }
 
 .sf-menu li:hover > ul li, .sf-menu li.sfHover > ul li {
@@ -407,6 +408,10 @@ border-radius: 0 9px 0 0;
 }
 
 .sf-menu li:hover > ul li:hover a, .sf-menu li.sfHover > ul li:hover a {
+  color: #0173BA !important;
+}
+
+.sf-menu li:hover > ul li.active a:active, .sf-menu li.sfHover > ul li.active a:active, .sf-menu li.sfHover > ul li.active a {
   color: #0173BA !important;
 }
 
