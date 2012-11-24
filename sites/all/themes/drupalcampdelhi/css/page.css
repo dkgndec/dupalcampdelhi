@@ -497,3 +497,34 @@ slideshow page theming.
   top: 5px;
   text-decoration: none;
 }
+/******slider text start**********/
+#transparency_big {
+     background-color: #0173BA;
+     height: 153px;
+     left: 50px;
+     opacity: 0.8;
+     position: absolute;
+     top: 20px;
+     width: 395px;
+}
+
+#mycontent_big {
+     bottom: 2px;
+     color: #FFFFFF;
+     left: 60px;
+     position: absolute;
+     top: 25px;
+     width: 360px;
+}
+
+#mycontent_big h2 {
+     color: #FFFFFF;
+     font-size: 2em;
+     padding-bottom: 10px;
+}
+
+#mycontent_big p {
+    color: #ffffff;
+}
+
+/******slider text end**********/
